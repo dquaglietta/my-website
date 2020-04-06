@@ -2,5 +2,5 @@
 
 creato un nuovo brench example
 ho creato un nuovo branch
-modifco il nuo branch localmente
-modifico di nuovo
+ho cancellato due righe di modifiche einserisco questo
+CIAO
