@@ -6,4 +6,4 @@ ho cancellato due righe di modifiche einserisco questo
 CIAO
 modifiche readme file sul branch develop
 
-
+ho creato una issue per modifica di questo file
